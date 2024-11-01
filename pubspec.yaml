@@ -1,0 +1,37 @@
+name: laborator_unu
+description: O aplicație pentru spital
+version: 1.0.0+1
+
+environment:
+  sdk: '^3.5.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.1.0 # Adaugă această linie
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data.json
+    - assets/doctor1.jpg
+    - assets/doctor2.jpg
+    - assets/doctor3.jpg
+    - assets/stomatologie.jpg
+    - assets/cardiologie.png
+    - assets/pediatrie.png
+    - assets/neurologie.png
+    - assets/dermatologie.png
+    - assets/oncologie.png
+    - assets/chirurgie.png
+    - assets/ortopedie.png
+    - assets/ginecologie.png
+    - assets/psihiatrie.png
+    - assets/banner.jpg
+    - assets/medlife_clinic.jpg
+    - assets/centru_panduri.jpg
+    - assets/spital_coltea.jpg
+    - assets/bucuresti.jpg
+    - assets/adriana.jpg
+    - assets/spital1.jpg
+    - assets/spital2.jpg
