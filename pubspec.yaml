@@ -13,7 +13,6 @@ dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/data.json
     - assets/doctor1.jpg
     - assets/doctor2.jpg
     - assets/doctor3.jpg
